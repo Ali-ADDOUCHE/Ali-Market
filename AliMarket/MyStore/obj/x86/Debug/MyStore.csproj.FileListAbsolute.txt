@@ -1,0 +1,99 @@
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.exe
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.pdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Login.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.Cache
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.exe
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.pdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Bill.resources
+E:\C#\MyStore\MyStore\bin\Debug\mystore.mdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.csprojResolveAssemblyReference.cache
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.exe.config
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\bin\Debug\mystore.mdb
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\bin\Debug\MyStore.exe
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\bin\Debug\MyStore.pdb
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.Bill.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.Login.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.exe
+C:\Users\ali20\Downloads\general-store-mgmt-c--master\MyStore\obj\x86\Debug\MyStore.pdb
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\bin\Debug\mystore.mdb
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\bin\Debug\MyStore.exe
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\bin\Debug\MyStore.pdb
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.Bill.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.Login.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.exe
+C:\Users\ali20\OneDrive\Desktop\ali project\gestion de stocks\MyStore\obj\x86\Debug\MyStore.pdb
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\bin\Debug\mystore.mdb
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\bin\Debug\MyStore.exe
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\bin\Debug\MyStore.pdb
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.Bill.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.Login.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.exe
+C:\Users\ali20\OneDrive\Desktop\Essaye\MyStore\obj\x86\Debug\MyStore.pdb
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\bin\Debug\mystore.mdb
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\bin\Debug\MyStore.exe
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\bin\Debug\MyStore.pdb
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.Bill.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.Login.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.exe
+C:\Users\ali20\OneDrive\Desktop\Ali Market\MyStore\obj\x86\Debug\MyStore.pdb
